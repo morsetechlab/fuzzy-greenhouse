@@ -46,13 +46,29 @@ pip install numpy scipy scikit-fuzzy packaging
 python fuzzy_greenhouse.py --temp 36.5 --hum 48 --light 120
 ```
 
-### Output
+#### Output
 
 ```
 Fuzzy Control Output:
 Fan: 73.2 %
 Mist: 51.8 %
 LED: 93.6 %
+```
+
+#### To get output in JSON format for integration
+
+```bash
+python fuzzy_greenhouse.py --temp 36.5 --hum 48 --light 120 --json
+```
+
+#### Json Output
+
+```
+{
+  "fan": 73.2,
+  "mist": 51.8,
+  "led": 93.6
+}
 ```
 
 ## 🎛️ Membership Functions (MF)

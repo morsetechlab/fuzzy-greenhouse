@@ -1,6 +1,7 @@
 import argparse
 import numpy as np
 import skfuzzy as fuzz
+import json
 
 # Input universes
 TEMP_RANGE = np.arange(15, 46, 1)
@@ -148,10 +149,15 @@ if __name__ == "__main__":
     parser.add_argument("--temp", type=float, required=True, help="Temperature in Celsius")
     parser.add_argument("--hum", type=float, required=True, help="Relative Humidity in %")
     parser.add_argument("--light", type=float, required=True, help="Light intensity in lux")
+    parser.add_argument("--json", action="store_true", help="Return result in JSON format")  # <== ✅ เพิ่มตรงนี้
     args = parser.parse_args()
 
     result = fuzzy_greenhouse_control(args.temp, args.hum, args.light)
-    print("Fuzzy Control Output:")
-    print("Fan:", result["fan"], "%")
-    print("Mist:", result["mist"], "%")
-    print("LED:", result["led"], "%")
+
+    if args.json:
+        print(json.dumps(result, indent=2))
+    else:
+        print("Fuzzy Control Output:")
+        print("Fan:", result["fan"], "%")
+        print("Mist:", result["mist"], "%")
+        print("LED:", result["led"], "%")
