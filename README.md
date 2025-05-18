@@ -147,8 +147,8 @@ IF Temp is Cold AND Light is Dark → Fan is Off AND Mist is Off AND LED is Dim
 
 ## Attribution
 
-Fuzzy Logic Framework [Scikit-Fuzzy](https://github.com/scikit-fuzzy/scikit-fuzzy)
-พัฒนาโดย [MorseTech Lab](https://github.com/morsetechlab)  
+- Fuzzy Logic Framework [Scikit-Fuzzy](https://github.com/scikit-fuzzy/scikit-fuzzy)
+- พัฒนาโดย [MorseTech Lab](https://github.com/morsetechlab)  
 
 ## 🛡️ License
 
