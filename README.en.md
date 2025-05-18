@@ -71,7 +71,7 @@ python fuzzy_greenhouse.py --temp 36.5 --hum 48 --light 120 --json
 }
 ```
 
-## 🎛️ Membership Functions (MF)
+## Membership Functions (MF)
 
 ### 🌡️ Temperature
 
