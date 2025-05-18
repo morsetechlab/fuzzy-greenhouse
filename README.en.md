@@ -4,7 +4,7 @@
 [![Fuzzy Logic](https://img.shields.io/badge/Fuzzy%20Logic-Scikit--Fuzzy-00b894?style=for-the-badge&logo=gear&logoColor=white)](https://github.com/scikit-fuzzy/scikit-fuzzy)
 [![MorseTech Lab](https://img.shields.io/badge/Developed%20by-MorseTech%20Lab-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/morsetechlab)
 
-# 🌿 Fuzzy Greenhouse Controller
+# 🪴 Fuzzy Greenhouse Controller
 
 > A Fuzzy Logic-based CLI system to control fan speed, misting, and LED brightness in greenhouses
 
@@ -100,7 +100,7 @@ High   = [70, 100, 100]
 ![Mist Output](images/misting_level_membership.png)  
 ![LED Output](images/led_brightness_membership.png)
 
-## 🧠 Rule Base
+## Rule Base
 
 ```text
 # Temperature + Humidity
@@ -127,13 +127,13 @@ IF Temp is Medium AND Hum is Dry AND Light is Bright → Fan Medium AND Mist Med
 IF Temp is Cold AND Light is Dark → Fan Off AND Mist Off AND LED Dim
 ```
 
-## 🔌 Real-World Applications
+## Real-World Applications
 
 - PWM control for fans
 - Analog LED brightness (DAC)
 - Sensor feed via MQTT for edge/cloud decision-making
 
-## 🧾 Attribution
+## Attribution
 
 - Fuzzy Logic Framework [Scikit-Fuzzy](https://github.com/scikit-fuzzy/scikit-fuzzy)  
 - Developed by [MorseTech Lab](https://github.com/morsetechlab)
@@ -143,7 +143,7 @@ IF Temp is Cold AND Light is Dark → Fan Off AND Mist Off AND LED Dim
 This project is licensed under the terms of the [MIT License](./LICENSE)  
 You are free to use, modify, and distribute with proper attribution.
 
-## 📚 Citation
+## Citation
 
 ```bibtex
 @misc{morsetechlab2025fuzzygreenhouse,
