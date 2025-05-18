@@ -20,6 +20,7 @@
 ## System Overview
 
 <p align="center">
+  <img src="images/og-fuzzy-greenhouse.png" alt="Fuzzy Green House" style="width: 100%; max-width: 900px;" />
   <img src="images/system_diagram.png" alt="System Architecture" style="width: 100%; max-width: 900px;" />
 </p>
 
