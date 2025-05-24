@@ -173,15 +173,6 @@ IF Temp is Cold AND Light is Dark → Fan is Off AND Mist is Off AND LED is Dim
 คุณสามารถนำไปใช้ ดัดแปลง แจกจ่าย หรือใช้งานเชิงพาณิชย์ได้  
 โดยต้องแสดงเครดิตและไม่รับประกันความเสียหายใด ๆ ที่อาจเกิดขึ้นจากการใช้งาน
 
-```bibtex
-@misc{morsetechlab2025fuzzygreenhouse,
-  title  = {Fuzzy Greenhouse Controller: Intelligent Environment Control using Fuzzy Logic},
-  author = {MorseTech Lab},
-  year   = {2025},
-  url    = {https://github.com/morsetechlab/fuzzy-greenhouse}
-}
-```
-
 **Academic Keywords**: Fuzzy Inference System, Rule-Based Controller, Soft Control, Environmental Monitoring, Greenhouse Automation, Embedded AI, Sensor-Driven Decision Making, Intelligent Control System
 
 <!--

@@ -159,16 +159,7 @@ IF Temp is Cold AND Light is Dark → Fan Off AND Mist Off AND LED Dim
 This project is licensed under the terms of the [MIT License](./LICENSE)  
 You are free to use, modify, and distribute with proper attribution.
 
-## Citation
-
-```bibtex
-@misc{morsetechlab2025fuzzygreenhouse,
-  title  = {Fuzzy Greenhouse Controller: Intelligent Environment Control using Fuzzy Logic},
-  author = {MorseTech Lab},
-  year   = {2025},
-  url    = {https://github.com/morsetechlab/fuzzy-greenhouse}
-}
-```
+**Academic Keywords**: Fuzzy Inference System, Rule-Based Controller, Soft Control, Environmental Monitoring, Greenhouse Automation, Embedded AI, Sensor-Driven Decision Making, Intelligent Control System
 
 <!--
 tags: Fuzzy Logic, Greenhouse Controller, Smart Farming, Automatic Climate Control, Python, Scikit-Fuzzy, IoT, ESP32, Raspberry Pi, Soft-Control System, Fan Control, Mist Control, LED Brightness, Fuzzy Inference System, Agricultural Automation, Edge AI
