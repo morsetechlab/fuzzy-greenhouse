@@ -1,8 +1,9 @@
 # 📘 [เวอร์ชั่นภาษาไทยที่นี่](README.md)
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-306998?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Fuzzy Logic](https://img.shields.io/badge/Fuzzy%20Logic-Scikit--Fuzzy-00b894?style=for-the-badge&logo=gear&logoColor=white)](https://github.com/scikit-fuzzy/scikit-fuzzy)
-[![MorseTech Lab](https://img.shields.io/badge/Developed%20by-MorseTech%20Lab-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/morsetechlab)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-306998?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![Fuzzy Logic](https://img.shields.io/badge/Fuzzy%20Logic-Scikit--Fuzzy-00b894?style=flat&logo=gear&logoColor=white)](https://github.com/scikit-fuzzy/scikit-fuzzy)
+[![MorseTech Lab](https://img.shields.io/badge/Developed%20by-MorseTech%20Lab-24292e?style=flat&logo=github&logoColor=white)](https://github.com/morsetechlab)
+
 
 # 🪴 Fuzzy Greenhouse Controller
 
