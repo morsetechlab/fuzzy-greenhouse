@@ -173,7 +173,7 @@ IF Temp is Cold AND Light is Dark → Fan is Off AND Mist is Off AND LED is Dim
 คุณสามารถนำไปใช้ ดัดแปลง แจกจ่าย หรือใช้งานเชิงพาณิชย์ได้  
 โดยต้องแสดงเครดิตและไม่รับประกันความเสียหายใด ๆ ที่อาจเกิดขึ้นจากการใช้งาน
 
-**Academic Keywords**: Fuzzy Inference System, Rule-Based Controller, Soft Control, Environmental Monitoring, Greenhouse Automation, Embedded AI, Sensor-Driven Decision Making, Intelligent Control System
+> **Academic Keywords**: Fuzzy Inference System, Rule-Based Controller, Soft Control, Environmental Monitoring, Greenhouse Automation, Embedded AI, Sensor-Driven Decision Making, Intelligent Control System
 
 <!--
 tags: Fuzzy Logic, Greenhouse Controller, Smart Farming, Automatic Climate Control, Python, Scikit-Fuzzy, IoT, ESP32, Raspberry Pi, Soft-Control System, Fan Control, Mist Control, LED Brightness, Fuzzy Inference System, Agricultural Automation, Edge AI
